@@ -15,7 +15,7 @@ header {
 
 .main{
     height: 1000x;
-    background-image: url(https://raw.githubusercontent.com/belico15/belico15.github.io/main/%20clock＆flower.jpeg);
+    background-image: url("/main/%20clock＆flower.jpeg");
     background-color:rgba(255,255,255,0.8);
     background-blend-mode:lighten;
     background-size: cover;
