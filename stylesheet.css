@@ -1,0 +1,70 @@
+header {
+    height:70px;
+}
+.titele {
+    color :#eee9e6 ; 
+    font-size :20px ;
+    float: left ;
+}
+
+.header-list a{
+    float: left ;
+    margin: 20px ;
+    color :#c9caca ;
+}
+
+.main{
+    height: 1000x;
+    background-image: url(../photo/\ clock＆flower.jpeg);
+    background-size: cover;
+    padding: 180px 0 100px 0 ;
+
+}
+
+.container{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 800px;
+
+}
+
+.place{
+    margin-top: 30px;
+}
+.container a {
+    font-size: 30px;
+    color:#eee9e6 ;
+}
+footer {
+    height: 120px;
+}
+.last-wrapper{
+    border-bottom: 1px solid #eee9e6;
+}
+.notice{
+    margin:50px 150px ;
+    font-size: 12px ;
+    border-width : 100%;
+    color: #8b4513;
+    background-color :whitesmoke;
+
+}
+.notice a{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    color: #8b4513;
+
+}
+footer {
+    height: 100px;
+}
+
+.footer-logo{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer-logo a{
+    color: #d3d3d3;
+    font-size: 30px;
+}
