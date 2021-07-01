@@ -12,19 +12,19 @@ header {
     margin: 20px ;
     color :#c9caca ;
 }
-
 .main{
     height: 1000x;
-    background-blend-mode:lighten;
     background-size: cover;
     padding: 180px 0 100px 0 ;
+    background-image: url(../photo/かほだいの絵.jpeg);
 
 }
+
 
 .container{
     color: whitesmoke;
     text-align: center;
-    margin-top: 800px;
+    padding-top: 800px;
 
 }
 
